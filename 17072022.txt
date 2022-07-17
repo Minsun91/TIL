@@ -1,12 +1,12 @@
 # 코딩테스트 예제를 통해 느낀점/배운점
 
-변수.push() 
+## 변수.push() 
 - 변수 내 배열의 끝에 하나 이상의 요소를 추가하고, 배열의 새로운 길이를 반환
-변수.unshift()
+## 변수.unshift()
 - 변수 내 배열의 맨 처음에 요소를 추가하고, 배열의 새로운 길이를 반환
-변수.map()
+## 변수.map()
 - 모든 배열의 값에 Function을 실행하는 Method
-- 예시) 
+- 예시1) 
 const days = ["Mon", "Tue", "Wed", "Thus", "Fri"];
 const smilmingDays = days.map(day => '😃 ${day}');
 console.log(smilmingDays);  
@@ -15,3 +15,26 @@ console.log(smilmingDays);
 const smilmingDays = days.map(day => console.log(day));
 
 두번째+세번째 줄은 6번째 줄은 동일하다. 
+
+-예시2)
+var numbers = [ 1,2,3,4,5,6,7,8,9];
+var newNumbers = numbers.map(number =>number *2);
+console.log(newNumbers);
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+var numbers = [ 1,2,3,4,5,6,7,8,9];
+var newNumbers = numbers.map(function(number){
+  return number*2;});
+console.log(newNumbers);
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+## 삼항연산자 
+- 참/거짓에 따라 선택적으로 실행되는 조건문
+- condition ? exprIfTrue : exprIfFalse 
+- 조건문 ? 조건문이 true 일 때 : 조건문이 False 일 때 
+예시1)
+var age = 26;
+var beverage = (age >= 21) ? "Beer" : "Juice";
+console.log(beverage); // "Beer"
+
+깃..왜이렇게 어려운가
