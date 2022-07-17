@@ -36,3 +36,5 @@ console.log(newNumbers);
 var age = 26;
 var beverage = (age >= 21) ? "Beer" : "Juice";
 console.log(beverage); // "Beer"
+
+깃..왜이렇게 어려운가
