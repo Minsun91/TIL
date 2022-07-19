@@ -49,3 +49,9 @@ https://velog.io/@zimmerweg/%ED%95%AD%ED%95%B4-99-8%EA%B8%B0-7%EC%9D%BC%EC%B0%A8
     sort(function(a,b) {return b-a;})
 2. 문자열에 * 1을 하면 toString() 등을 쓰지 않고도 숫자열로 변경 가능!
 3. split()은 str에서 사용 가능
+
+#내일 할 일
+1. 프로그래머스 문제 다 풀기
+2. CS 책 읽기
+3. CS 발표 준비..!
+4. 목요일에는 알고리즘 시험ㅠ
