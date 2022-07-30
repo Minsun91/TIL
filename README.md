@@ -30,6 +30,8 @@
 
 [29072022](29072022.md) 객체리터럴, 구조분해 할당, 에러처리, 클라스, 호이스팅
 
+[30072022](30072022.md) REST API, Validation (joi)
+
 ---
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Minsun91?style=social">  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsun91&count_bg=%23E12CA3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
