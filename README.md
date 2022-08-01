@@ -32,6 +32,8 @@
 
 [30072022](30072022.md) REST API, Validation (joi)
 
+[31072022](https://github.com/Minsun91/Node.js-2nd.git) 몽구스에서 mySQL로 바꾸기
+
 ---
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Minsun91?style=social">  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsun91&count_bg=%23E12CA3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
